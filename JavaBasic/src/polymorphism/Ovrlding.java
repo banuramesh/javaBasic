@@ -30,7 +30,7 @@ public class Ovrlding {
 	}
 		public static void area()
 		{
-			System.out.println("Area Methods");
+			System.out.println("Area Methods Testing");
 		}
 		public void area(int a)
 		{
