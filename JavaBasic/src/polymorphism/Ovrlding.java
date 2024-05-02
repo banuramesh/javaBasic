@@ -23,7 +23,7 @@ public class Ovrlding {
 		Ovrlding ob = new Ovrlding();
 		ob.area(5);
 		System.out.println("Area of Circle:" + ob.area(5.2));
-		Ovrlding.area(10, 6.5);
+		Ovrlding.area(15, 6.5);
 		Ovrlding.area(5.8, 12);
 				
 			
