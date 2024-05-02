@@ -30,7 +30,7 @@ public class Ovrlding {
 	}
 		public static void area()
 		{
-			System.out.println("Area Methods");
+			System.out.println("Area Methods testing");
 		}
 		public void area(int a)
 		{
@@ -48,6 +48,7 @@ public class Ovrlding {
 		{
 			System.out.print("Area of triangle:"+ 0.5*b*h);
 		}
+	         
 		
 	
 
